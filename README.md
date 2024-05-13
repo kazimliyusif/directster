@@ -9,8 +9,9 @@ Directster is a command-line tool written in Python for brute-forcing directorie
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/dirbuster-tool.git
-   
+   git clone https://github.com/kazimliyusif/directster.git
+2. Switch to the installed directory:
+   cd directster   
 
 ## Usage
 
@@ -20,4 +21,4 @@ python dirbuster.py -u <URL> -w <wordlist_file>
 
 ## Example
 
-python dirbuster.py -u http://example.com -w wordlist.txt -v
+python dirbuster.py -u http://example.com -w wordlist.txt 
